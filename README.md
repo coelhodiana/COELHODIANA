@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! My name is Diana 👋
 
 <!--
 **coelhodiana/coelhodiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Front End Web Developer and Graphic Designer from Brazil.
+
+🌱 I’m currently learning JAVA.
+
+📫 How to reach me:
+
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coelhodiana04/)
+
