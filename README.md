@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 I'm a Front End Web Developer and Graphic Designer from Brazil.
 
-🌱 I’m currently learning JAVA.
 
